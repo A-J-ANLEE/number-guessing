@@ -7,5 +7,5 @@ A simple number guessing game built with Python.
 ## *How to Run*
 Make sure Python is installed. Then run:
 ```bash
-python number guessing.py
+number guessing.py
 
